@@ -7,7 +7,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "this is gbp!!"
+    "this is git!!"
    ]
   }
  ],
